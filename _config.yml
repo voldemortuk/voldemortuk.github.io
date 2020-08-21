@@ -1,9 +1,9 @@
 # main text of home
-name: Atibhi Agrawal
-bio: Open Source 💻 | Diversity and Inclusion 🌈 | Google Intern 2020✨
-# twitter summary info
-description: My personal space on the World Wide Web
+name: Utkarsh Raj
+bio: Ambassador@deeplearning.ai |  ML Enthusiast | Programmer  
 
+# twitter summary info
+description: A personal portfolio
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -13,9 +13,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: false
 resume-local: false
-#resume-url: atibhi.pdf
 
-url: http://aSquare14.github.io
+
+url: http://vladermaut.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,30 +34,36 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: /profile.php?id=100001061927041
-twitter: /atibhi_a
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: atibhi-agrawal-267525149/
-# youtube: myyoutube
-# spotify: myspotify
-github: aSquare14
+twitter: /UtkarshpyML
+# # google: mygoogle
+# # instagram: myinstagram
+# # pinterest: mypinterest
+linkedin: utkarsh-raj-906917171
+# # youtube: myyoutube
+# # spotify: myspotify
+github: Valdermaut
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: Atibhi-Agrawal
-# reddit: username
-medium: atibhiagrawal
-# vimeo: myvimeo
+
+# # reddit: username
+medium: utkarshraj_12594
+# # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: atibhi.a@gmail.com
+email: utkarsh02dec@gmail.com
 
 authors:
-    atibhi:
-        name: Atibhi Agrawal
-        #bio: 
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: /atibhi_a
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,11 +75,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+#about: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
