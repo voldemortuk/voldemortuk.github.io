@@ -1,6 +1,6 @@
 # main text of home
 name: Utkarsh Raj
-bio: Ambassador@deeplearning.ai |  ML Enthusiast | Programmer  
+bio: Ambassador@deeplearning.ai |  ML Enthusiast | Programmer | Product Evangelist @ Agora.io
 
 # twitter summary info
 description: A personal portfolio
@@ -15,7 +15,7 @@ resume: false
 resume-local: false
 
 
-url: http://vladermaut.github.io
+url: https://voldemortuk.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -41,7 +41,7 @@ twitter: /UtkarshpyML
 linkedin: utkarsh-raj-906917171
 # # youtube: myyoutube
 # # spotify: myspotify
-github: Valdermaut
+github: voldemortuk
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 
