@@ -12,6 +12,8 @@ Presently, I am working with tableau and deeplearning models . I love volunteeri
 
 I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net) (a group of passionate professionals teaching young people tech ).
 
-In the past , I have also worked as  full stack web developer.In my free time , I love reading blogs and am learning French at the moment . 
+In the past , I have also worked as  full stack web developer.
+
+In my free time , I love reading blogs and am learning French at the moment . I also love to travel.
 
 To contact me, please email utkarsh02dec@gmail.com . You can also follow me on [Twitter](https://twitter.com/UtkarshpyML).
