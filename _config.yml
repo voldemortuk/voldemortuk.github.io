@@ -11,8 +11,8 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-local: true
+[resume](https://drive.google.com/drive/u/0/folders/1cP2zewx8ikOO6JYtscLJyN3wdrG9nSKZ): true
+resume-local: false
 
 
 url: https://voldemortuk.github.io
