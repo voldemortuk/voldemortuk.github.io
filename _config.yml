@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-local: false
+resume-local: true
 
 
 url: https://voldemortuk.github.io
@@ -36,7 +36,7 @@ disqus:
 # facebook: /profile.php?id=100001061927041
 twitter: /UtkarshpyML
 # # google: mygoogle
-# # instagram: myinstagram
+instagram: raj_utkarsh02
 # # pinterest: mypinterest
 linkedin: utkarsh-raj-906917171
 # # youtube: myyoutube
@@ -75,23 +75,23 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+#read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+#show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
