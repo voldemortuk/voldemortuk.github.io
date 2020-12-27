@@ -1,5 +1,5 @@
 # main text of home
-name: Utkarsh Raj
+name: Utkarsh
 bio: Ambassador@deeplearning.ai |  ML Enthusiast | Product Evangelist @ Agora.io
 
 # twitter summary info
@@ -11,7 +11,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-local: false
 
 
@@ -78,7 +78,7 @@ width: normal
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
-#about: true
+about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
