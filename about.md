@@ -4,12 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Namaste 🙏 ! 
+Bonjour tous le monde🙏 ! 
 
-Welcome to my blog. I'm Atibhi, a final year Integrated Masters student at [IIIT-Bangalore](https://www.iiitb.ac.in/), an aspiring Software Enginner, an advocate for diversity and inclusion in STEM and an [open source enthusiast](https://www.redhat.com/en/about/women-in-open-source).
+Welcome all. I'm Utkarsh a 3rd year B.Tech student at [School of Engineering,CUSAT](http://soe.cusat.ac.in), an aspiring Machine Learning Engineer and am  passionate about diversity in tech and open source. I am an ambassador @ [deeplearning.ai](https://www.deeplearning.ai)  and Product Evangelist @ [Agora.io](https://www.agora.io/en/).
 
-Presently, I am interested in building distributed systems and algorithms that can scale. I care about building impactful, accessible and inclusive tech for everyone. I am also passionate about diversity in tech and am the founder of Lean-In Chapter, IIIT-B. It is an organization that helps to empower women in technology.💜
+Presently, I am working with tableau and deeplearning models . I love volunteering with tech communities and am involved  with [Pehia Foundation](https://www.pehia.org/events/summit2021) (a non-profit working towards the cause of bridging the gender gap in tech ) , [Tinkerhub](https://tinkerhub.org) as a Core Mentor for [TinkerWeek.Py](https://tinkerhub.org) ( a 2 week learning jam facilitating World of Python in a nutshell).
 
-In my free time, I can often be found [reading](https://www.goodreads.com/user/show/74108752-atibhi-agrawal) on my kindle 📚. I also have a diploma in Fine Arts and I paint whenever inspiration strikes. 🎨
+I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net) (a group of passionate professionals teaching young people tech ).
 
-To contact me, please email atibhi.a@gmail.com . You can also follow me on [Twitter](https://twitter.com/atibhi_a).
+In the past , I have also worked as  full stack web developer.In my free time , I love reading blogs and am learning French at the moment . 
+
+To contact me, please email utkarsh02dec@gmail.com . You can also follow me on [Twitter](https://twitter.com/UtkarshpyML).
